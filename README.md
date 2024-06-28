@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @azimhossain
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning c,java
+- 🌱 currently i´m a studying Daffodil international university
+- Learing P-lang: c
 
 <!---
 azimhossainahs/azimhossainahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
