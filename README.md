@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azim hossain</h1>
 <h3 align="center">A passionate software developer from bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azimhossainahs&label=Profile%20views&color=0e75b6&style=flat" alt="azimhossainahs" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=azimhossainahs&label=Profile%20views&color=0e75b6&style=flat" alt="azimhossainahs" /> </p> -->
 
 - 📫 How to reach me **azimhossainahs@gmail.com**
 
