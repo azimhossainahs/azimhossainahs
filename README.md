@@ -1,22 +1,75 @@
-<h1 align="center">Hi 👋, I'm Azim hossain</h1>
-<h3 align="center">A passionate software developer from bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Azim Hossain</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=azimhossainahs&label=Profile%20views&color=0e75b6&style=flat" alt="azimhossainahs" /> </p> -->
+<h3 align="center">Software Engineering Student | C & Python | Software & Data Development</h3>
 
-- 📫 How to reach me **azimhossainahs@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/azimhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azimhossain" height="30" width="40" /></a>
-<a href="https://fb.com/azimhossainahs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azimhossainahs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azim hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azim hossain" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/azimhossainahs">GitHub</a> •
+  <a href="https://linkedin.com/in/azimhossain">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azimhossainahs&show_icons=true&locale=en&layout=compact" alt="azimhossainahs" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azimhossainahs&show_icons=true&locale=en" alt="azimhossainahs" /></p>
+I'm a Software Engineering student interested in building practical software projects and strengthening my foundations in programming, data structures, problem solving, and data-related technologies.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azimhossainahs&" alt="azimhossainahs" /></p>
+* 🎓 Studying Software Engineering
+* 💻 Currently working with **C and Python**
+* 🌱 Learning **Data Analysis and Data Science**
+* 🧠 Interested in **Data Structures, Algorithms, and Software Development**
+* 🔧 Practicing **Git and GitHub** through personal projects
+* 📫 Reach me at **[azimhossainahs@gmail.com](mailto:azimhossainahs@gmail.com)**
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
+
+### Web & Development Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+## 📌 Featured Projects
+
+### Student Enrollment System with Waitlist
+
+A console-based enrollment management system built with C, featuring course management, student enrollment, employee management, file-based persistence, and FIFO-based waitlist processing.
+
+**Technologies:** C, Structures, Linked Lists, Pointers, File I/O
+
+🔗 [View Project](https://github.com/azimhossainahs/Student-Enrollment-System-with-Waitlist)
+
+## 📚 Currently Learning
+
+* Python
+* NumPy & Pandas
+* Data Analysis
+* Data Structures & Algorithms
+* Machine Learning fundamentals
+* Git & GitHub
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azimhossainahs&show_icons=true&locale=en" alt="Azim's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azimhossainahs" alt="Azim's GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building, and improving one project at a time.</i>
+</p>
