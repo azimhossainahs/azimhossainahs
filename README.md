@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/azimhossainahs">GitHub</a> •
-  <a href="https://linkedin.com/in/azimhossain">LinkedIn</a>
+  <a href="https://linkedin.com/in/azimhossainahs">LinkedIn</a>
 </p>
 
 ---
